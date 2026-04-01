@@ -3,6 +3,7 @@
     "target": "ES6",
     "module": "ESNext",
     "moduleResolution": "Node",
+    "ignoreDeprecations": "6.0",
 
     "declaration": true,
     "outDir": "dist",
